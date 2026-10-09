@@ -25,8 +25,8 @@ export default function AboutSection() {
         letterSpacing: "0.04em",
         marginBottom: 36,
       }}>
-        C# və .NET Core ilə backend inkişafı sahəsində biliklərə malikəm. Python FastAPI
-        və Django ilə də aktiv işləyirəm. API-lərin yaradılması, verilənlər bazası ilə işləmək
+        Java ilə backend inkişafı sahəsində biliklərə malikəm. C# (.NET Core) və
+        Python (FastAPI, Django) ilə də işləmişəm. API-lərin yaradılması, verilənlər bazası ilə işləmək
         və kod keyfiyyətinə diqqət yetirmək əsas prioritetlərimdəndir.
       </p>
 

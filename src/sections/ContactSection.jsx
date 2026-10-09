@@ -49,7 +49,7 @@ export default function ContactSection() {
         marginTop: 38,
         textTransform: "uppercase",
       }}>
-        vaxt · səbr · .NET · Python · tısbağalar ilə inşa edilmişdir
+        vaxt · səbr · Java · Python · tısbağalar ilə inşa edilmişdir
       </p>
     </section>
   );

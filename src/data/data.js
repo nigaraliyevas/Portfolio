@@ -1,14 +1,28 @@
 export const skills = {
-  "backend // arxa tərəf": [
-    "C#", ".NET Core", "ASP.Net Core API", "Entity Framework Core",
-    "SignalR", "JWT", "REST API", "ASP.NET MVC", "MS SQL Server",
-    "Design Patterns", "Python", "FastAPI", "Django",
+  "dillər // languages": ["Java", "C#", "Python"],
+  "java ekosistemi // java ecosystem": [
+    "Java 17+", "OOP", "Collections", "Streams & Lambda", "Multithreading",
+    "Spring Boot", "Spring MVC", "Spring Data JPA", "Spring Security",
+    "Hibernate", "Maven", "Gradle",
   ],
+  "backend // arxa tərəf": [
+    "REST API", "JWT", "Swagger / OpenAPI", "Microservices (əsaslar)",
+    "Design Patterns", "SOLID",
+    ".NET Core", "ASP.NET Core API", "Entity Framework Core",
+    "SignalR", "ASP.NET MVC", "FastAPI", "Django",
+  ],
+  "verilənlər bazası // databases": [
+    "SQL", "PostgreSQL", "MySQL", "MS SQL Server",
+  ],
+  "test // testing": ["JUnit 5", "Mockito", "Postman"],
   "frontend // ön tərəf": [
     "HTML5", "CSS3", "JavaScript", "jQuery", "ReactJS",
     "Sass", "Tailwind CSS", "Bootstrap",
   ],
-  "alətlər": ["GitHub", "Agile", "JIRA"],
+  "alətlər // tools": [
+    "Git", "GitHub", "Docker", "GitHub Actions (CI/CD)", "Linux",
+    "Agile", "JIRA",
+  ],
 };
 
 export const projects = [
@@ -113,9 +127,9 @@ export const navItems = [
   { id: "contact",    label: "Əlaqə" },
 ];
 
-export const heroTags = ["C#", ".NET", "Python", "FastAPI", "Django", "SQL"];
+export const heroTags = ["Java", "Spring Boot", "C#", "Python", "REST API", "SQL"];
 
-export const decoSymbols = ["{ }", "//", "=>", "null", "await", "async", "var", "new"];
+export const decoSymbols = ["{ }", "//", "->", "null", "new", "class", "void", "@Override"];
 
 export const workStyle = [
   "🐢 sakit & davamlı",

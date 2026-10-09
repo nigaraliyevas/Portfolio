@@ -55,7 +55,7 @@ export default function HeroSection({ wordIdx, langIdx }) {
           color: "var(--accent)",
           marginTop: 16,
         }}>
-          .NET Backend Developer · Python · FastAPI · Django
+          Java Backend Developer · C# · Python
           <span className="cursor-blink" />
         </p>
 

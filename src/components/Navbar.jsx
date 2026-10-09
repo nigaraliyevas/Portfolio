@@ -13,7 +13,7 @@ export default function Navbar({ activeNav }) {
     <>
       <nav className="nav-bar">
         <div className="nav-logo">
-          N.Ə <span style={{ color: "var(--accent)", fontSize: "0.58rem" }}>// backend.dev</span>
+          N.Ə <span style={{ color: "var(--accent)", fontSize: "0.58rem" }}>// java.dev</span>
         </div>
 
         <div className="nav-links">
